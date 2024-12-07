@@ -12,13 +12,13 @@ Create a Load Balancer Xray Config.
 🟢 Linux:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/Surfboardv2ray/Xray-Load-Balancer/main/ubuntu.sh)
+bash <(curl -s https://raw.githubusercontent.com/3yed82/Xray-Load-Balancer/main/ubuntu.sh)
 ```
 
 🟢 Android Termux:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/Surfboardv2ray/Xray-Load-Balancer/main/termux.sh)
+bash <(curl -s https://raw.githubusercontent.com/3yed82/Xray-Load-Balancer/main/termux.sh)
 ```
 
 > [!CAUTION]
